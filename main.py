@@ -21,7 +21,6 @@ for (index, row) in student_data_frame.iterrows():
 # {new_key:new_value for (index, row) in df.iterrows()}
 
 
-{"A": "Alfa", "B": "Bravo"}
 nato_df = pandas.read_csv("nato_phonetic_alphabet.csv")
 
 # nato_dict = {key: value for (key, value) in nato_df.values}
